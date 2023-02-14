@@ -6,6 +6,6 @@ demo of a how git works!
 
 watch tutorial on YouTube.
 
-## Loca development
+## Local development
 
 1. Open index.html in your browser
